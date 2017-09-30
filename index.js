@@ -38,6 +38,6 @@ return kittens3;
 }
 
 function removeFirstKitten(){
-  const kitten4 = kittens.slice(2,4);
+  const kitten4 = kittens.slice(1,4);
 return kitten4;
 }
